@@ -1,0 +1,23 @@
+header img{
+   float: left;
+}
+header h1{
+   font-size: 220%;
+   color: orange;
+   text-shadow: -2px -2px 4px black;
+}
+
+.first_letter::first-letter{
+    font-size: 200%;
+}
+
+a{
+    color: orange;
+ }
+ a:visited{
+   color: black;
+ }
+ a:hover , a:focus{
+    color: green;
+ }
+
